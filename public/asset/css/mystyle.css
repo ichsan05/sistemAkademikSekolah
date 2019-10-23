@@ -1,0 +1,10 @@
+.pagination{margin-top: 40px;float: right;}
+.pagination li {
+	margin: 0 12px;
+	padding: 5px 12px;
+}
+
+.pagination .active{
+    border-radius: 3px;
+    background-color: #c8c8c8;
+}
